@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a passionate and driven **Full Stack Software Engineer
 If you're working on an exciting project or just want to talk tech, I'm always happy to connect!
 
 - 📧 yasarakithmini9@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/yasara-kithmini-1684a6221)  
+- 💼 www.linkedin.com/in/yasara-kithmini-1684a6221)  
 
 ---
 
