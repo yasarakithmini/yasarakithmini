@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate and driven **Full Stack Software Engineer
 
 ### 🛠️ Tech Stack
 **Languages:**  
-`JavaScript` `Python` `HTML` `CSS` `SQL` `PHP` `Swift`
+`JavaScript` `Python` `HTML` `CSS` `SQL` `PHP` `Swift` `Java`
 
 **Frameworks & Libraries:**  
 `React.js` `Node.js` `Express.js` `Flask` `Bootstrap` `Laravel` `Angular`
